@@ -1,0 +1,12 @@
+body{
+  background-image:url("../img/t.jpg");
+  background-repeat: no-repeat;
+  background-size: 1400px 1400px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+.checklabel{
+  margin: 5px;
+}
